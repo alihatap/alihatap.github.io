@@ -1,6 +1,13 @@
 [
   
     {
+      "title"    : "Going Online",
+      "tags"     : "digital humanities",
+      "url"     : "/blog/going-online/",
+      "date"     : "13/3/2018"
+    } ,
+  
+    {
       "title"    : "Welcome to Jekyll!",
       "tags"     : "example, welcome, jekyll, typing",
       "url"     : "/blog/welcome-to-jekyll/",

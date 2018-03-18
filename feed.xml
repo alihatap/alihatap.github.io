@@ -19,9 +19,20 @@
     <description>A Research Blog</description>
     <link>https://www.victorian-naturalist.com/</link>
     <atom:link href="https://www.victorian-naturalist.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 18 Mar 2018 03:09:53 +0100</pubDate>
-    <lastBuildDate>Sun, 18 Mar 2018 03:09:53 +0100</lastBuildDate>
+    <pubDate>Sun, 18 Mar 2018 03:17:30 +0100</pubDate>
+    <lastBuildDate>Sun, 18 Mar 2018 03:17:30 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Going Online</title>
+        <description>&lt;ul&gt; &lt;li&gt;Do not remove this line (it will not be displayed)&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;After a long period of thinking about starting a research blog, I have finally madeup my mind to go online with [Victorian Naturalist] (https://www.victorian-naturalist.com). Logistics was the first question to settle, i.e. hosting. This wesite is hosted on [Github] (www.github.com). There is a learning curve to use Github pages effectively for hosting, but it shouldn’t scare the novices. Now I can have a custom domain website for as low as 10 €, which is the 2-year domain name price.&lt;/p&gt; &lt;p&gt;I have been very interested in digital humanities and...</description>
+        <pubDate>Tue, 13 Mar 2018 04:58:16 +0100</pubDate>
+        <link>https://www.victorian-naturalist.com/blog/going-online/</link>
+        <guid isPermaLink="true">https://www.victorian-naturalist.com/blog/going-online/</guid>
+        
+        <tag>digital humanities</tag>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
