@@ -2,15 +2,6 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://www.victorian-naturalist.com/blog/going-online/</loc>
-      
-        <lastmod>2018-03-13T04:58:16+01:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-    </url>
-  
-    <url>
       <loc>https://www.victorian-naturalist.com/blog/welcome-to-jekyll/</loc>
       
         <lastmod>2018-02-03T14:22:16+01:00</lastmod>
@@ -68,8 +59,6 @@
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
        </url>
-    
-  
     
   
     
