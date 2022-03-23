@@ -1,0 +1,16 @@
+main:
+  - title: About
+    sublinks:
+      - title: About
+        url: /about/
+      - title: CV
+        url: /about/cv/
+      - title: Thesis
+        url: /about/thesis/
+  - title: Posts
+    url: /year-archive/index.html
+  - title: Categories
+    url: /categories/index.html
+  - title: Tags
+    url: /tags/
+
