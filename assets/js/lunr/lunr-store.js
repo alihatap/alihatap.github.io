@@ -16,4 +16,10 @@ var store = [{
         "tags": ["abstract"],
         "url": "/oral%20presentations/abstract-mans/",
         "teaser": null
+      },{
+        "title": "Free (and mostly Open-Source) Software (FOSS) for Research",
+        "excerpt":"Function Software Open-source? Note-taking Obsidian No Reference management Zotero Yes Image management Tropy Yes Blog creator Jekyll Yes Hosting GitHub Pages   Thinkering1 Python Yes Code editing MS Visual Studio Code No Visualisation of geographical data QGIS Yes Reading PDFs on e-reader &amp; Android Koreader Yes Task management Nextcloud Yes...","categories": ["historian's toolkit"],
+        "tags": ["research tools, free open source software"],
+        "url": "/historian's%20toolkit/foss/",
+        "teaser": "https://training.gismentors.eu/isprs-summer-school-2016/_images/foss.png"
       }]
